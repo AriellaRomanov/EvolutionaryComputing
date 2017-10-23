@@ -1,0 +1,535 @@
+Configuration Parameters
+  logFile=Logs/sample_log1.txt
+  maxLength=7
+  maxWidth=5
+  numFits=1000
+  numRuns=30
+  probFile=Problems/sample.txt
+  seed=1505787221
+  solFile=Solutions/sample_sol1.txt
+
+Run 0
+	0	1
+	3	3
+	77	4
+
+Run 1
+	0	1
+	3	3
+	14	4
+
+Run 2
+	0	1
+	1	2
+	14	3
+	63	4
+
+Run 3
+	0	1
+	2	2
+	9	3
+	71	4
+
+Run 4
+	0	3
+	22	4
+
+Run 5
+	0	2
+	1	3
+	268	4
+
+Run 6
+	0	2
+	1	3
+	172	4
+
+Run 7
+	0	1
+	1	2
+	2	3
+	88	4
+
+Run 8
+	0	2
+	4	3
+	8	4
+
+Run 9
+	0	1
+	1	2
+	3	3
+	38	4
+
+Run 10
+	0	1
+	1	2
+	11	3
+	32	4
+
+Run 11
+	0	1
+	9	2
+	17	3
+	60	4
+
+Run 12
+	0	1
+	3	2
+	4	3
+	33	4
+
+Run 13
+	0	2
+	2	3
+	33	4
+
+Run 14
+	0	1
+	3	2
+	26	3
+	137	4
+
+Run 15
+	0	2
+	3	4
+
+Run 16
+	0	2
+	24	3
+	66	4
+
+Run 17
+	0	2
+	1	3
+	22	4
+
+Run 18
+	0	1
+	2	2
+	10	4
+
+Run 19
+	0	3
+	260	4
+
+Run 20
+	0	3
+	12	4
+
+Run 21
+	0	2
+	7	3
+	21	4
+
+Run 22
+	0	1
+	1	3
+	67	4
+
+Run 23
+	0	1
+	2	3
+	24	4
+
+Run 24
+	0	1
+	1	2
+	4	3
+	14	4
+
+Run 25
+	0	3
+	141	4
+
+Run 26
+	0	2
+	9	3
+	12	4
+
+Run 27
+	0	2
+	1	3
+	31	4
+
+Run 28
+	0	1
+	2	2
+	15	3
+	95	4
+
+Run 29
+	0	2
+	1	3
+	2	4
+Configuration Parameters
+  logFile=Logs/sample_log1.txt
+  maxLength=7
+  maxWidth=5
+  numFits=1000
+  numRuns=30
+  probFile=Problems/sample.txt
+  seed=1505787221
+  solFile=Solutions/sample_sol1.txt
+
+Run 0
+	0	1
+	3	3
+	77	4
+
+Run 1
+	0	1
+	3	3
+	14	4
+
+Run 2
+	0	1
+	1	2
+	14	3
+	63	4
+
+Run 3
+	0	1
+	2	2
+	9	3
+	71	4
+
+Run 4
+	0	3
+	22	4
+
+Run 5
+	0	2
+	1	3
+	268	4
+
+Run 6
+	0	2
+	1	3
+	172	4
+
+Run 7
+	0	1
+	1	2
+	2	3
+	88	4
+
+Run 8
+	0	2
+	4	3
+	8	4
+
+Run 9
+	0	1
+	1	2
+	3	3
+	38	4
+
+Run 10
+	0	1
+	1	2
+	11	3
+	32	4
+
+Run 11
+	0	1
+	9	2
+	17	3
+	60	4
+
+Run 12
+	0	1
+	3	2
+	4	3
+	33	4
+
+Run 13
+	0	2
+	2	3
+	33	4
+
+Run 14
+	0	1
+	3	2
+	26	3
+	137	4
+
+Run 15
+	0	2
+	3	4
+
+Run 16
+	0	2
+	24	3
+	66	4
+
+Run 17
+	0	2
+	1	3
+	22	4
+
+Run 18
+	0	1
+	2	2
+	10	4
+
+Run 19
+	0	3
+	260	4
+
+Run 20
+	0	3
+	12	4
+
+Run 21
+	0	2
+	7	3
+	21	4
+
+Run 22
+	0	1
+	1	3
+	67	4
+
+Run 23
+	0	1
+	2	3
+	24	4
+
+Run 24
+	0	1
+	1	2
+	4	3
+	14	4
+
+Run 25
+	0	3
+	141	4
+
+Run 26
+	0	2
+	9	3
+	12	4
+
+Run 27
+	0	2
+	1	3
+	31	4
+
+Run 28
+	0	1
+	2	2
+	15	3
+	95	4
+
+Run 29
+	0	2
+	1	3
+	2	4
+Configuration Parameters
+  logFile=Logs/sample_log1.txt
+  maxLength=7
+  maxWidth=5
+  numFits=1000
+  numRuns=30
+  probFile=Problems/sample.txt
+  seed=1505787221
+  solFile=Solutions/sample_sol1.txt
+Unrecognized Algorithm: 
+Configuration Parameters
+  Algorithm=FPS
+  logFile=Logs/sample_log1.txt
+  maxLength=7
+  maxWidth=5
+  numFits=1000
+  numRuns=30
+  probFile=Problems/sample.txt
+  seed=1505787221
+  solFile=Solutions/sample_sol1.txt
+Configuration Parameters
+  Algorithm=KTourney
+  logFile=Logs/sample_log1.txt
+  maxLength=7
+  maxWidth=5
+  numFits=1000
+  numRuns=30
+  probFile=Problems/sample.txt
+  seed=1505787221
+  solFile=Solutions/sample_sol1.txt
+Configuration Parameters
+  Algorithm=
+  logFile=Logs/sample_log1.txt
+  maxLength=7
+  maxWidth=5
+  numFits=1000
+  numRuns=30
+  probFile=Problems/sample.txt
+  seed=1505787221
+  solFile=Solutions/sample_sol1.txt
+
+Unrecognized Algorithm: 
+Configuration Parameters
+  Algorithm=Random
+  logFile=Logs/sample_log1.txt
+  maxLength=7
+  maxWidth=5
+  numFits=1000
+  numRuns=30
+  probFile=Problems/sample.txt
+  seed=1505787221
+  solFile=Solutions/sample_sol1.txt
+
+Run 0
+	0	1
+	3	3
+	77	4
+
+Run 1
+	0	1
+	3	3
+	14	4
+
+Run 2
+	0	1
+	1	2
+	14	3
+	63	4
+
+Run 3
+	0	1
+	2	2
+	9	3
+	71	4
+
+Run 4
+	0	3
+	22	4
+
+Run 5
+	0	2
+	1	3
+	268	4
+
+Run 6
+	0	2
+	1	3
+	172	4
+
+Run 7
+	0	1
+	1	2
+	2	3
+	88	4
+
+Run 8
+	0	2
+	4	3
+	8	4
+
+Run 9
+	0	1
+	1	2
+	3	3
+	38	4
+
+Run 10
+	0	1
+	1	2
+	11	3
+	32	4
+
+Run 11
+	0	1
+	9	2
+	17	3
+	60	4
+
+Run 12
+	0	1
+	3	2
+	4	3
+	33	4
+
+Run 13
+	0	2
+	2	3
+	33	4
+
+Run 14
+	0	1
+	3	2
+	26	3
+	137	4
+
+Run 15
+	0	2
+	3	4
+
+Run 16
+	0	2
+	24	3
+	66	4
+
+Run 17
+	0	2
+	1	3
+	22	4
+
+Run 18
+	0	1
+	2	2
+	10	4
+
+Run 19
+	0	3
+	260	4
+
+Run 20
+	0	3
+	12	4
+
+Run 21
+	0	2
+	7	3
+	21	4
+
+Run 22
+	0	1
+	1	3
+	67	4
+
+Run 23
+	0	1
+	2	3
+	24	4
+
+Run 24
+	0	1
+	1	2
+	4	3
+	14	4
+
+Run 25
+	0	3
+	141	4
+
+Run 26
+	0	2
+	9	3
+	12	4
+
+Run 27
+	0	2
+	1	3
+	31	4
+
+Run 28
+	0	1
+	2	2
+	15	3
+	95	4
+
+Run 29
+	0	2
+	1	3
+	2	4
